@@ -18,6 +18,246 @@
 				"listings": [
 					{
 						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-mGqwnxtzHj2GjJut5mE2vg",
+						"psf_subtext": "",
+						"date_formatted": "2 mins ago",
+						"id": "mGqwnxtzHj2GjJut5mE2vg",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					},
+					{
+						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-jV8T5mxaqGyiK5LhzusWLo",
+						"psf_subtext": "",
+						"date_formatted": "3 mins ago",
+						"id": "jV8T5mxaqGyiK5LhzusWLo",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					},
+					{
+						"sub_category": "condo_apartment",
 						"listing_url": "/singapore/sale/property/property-in-singapore-condo-dPFws9uZRxcGUNUAXnV53U",
 						"psf_subtext": "",
 						"date_formatted": "9 mins ago",

@@ -1,0 +1,1639 @@
+{
+	"data": {
+		"count": {
+			"matched_filters_and_search_bound": 63073,
+			"total": 63073,
+			"matched_filters_and_search_bound_and_low_priority": 0,
+			"matched_filters_and_search_bound_and_high_priority": 63073,
+			"clusters_total": 74273,
+			"matched_filters": 63073,
+			"sections": {
+				"rest": 63073
+			}
+		},
+		"sections": [
+			{
+				"count": 63073,
+				"label": "rest",
+				"listings": [
+					{
+						"sub_category": "generic_condo",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-53d5vB4VJpzqL6aR6UMC5g",
+						"psf_subtext": "",
+						"date_formatted": "25 mins ago",
+						"id": "53d5vB4VJpzqL6aR6UMC5g",
+						"sub_category_formatted": "Condo",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": null,
+						"location": {
+							"district": "04"
+						},
+						"address_name": "Reflections At Keppel Bay",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": "Living Room",
+								"index": 0,
+								"caption": "Living Room",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/fu6BmT8Cf6ygdhZeVniXMn?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=86d3204f958e8db67752a68e1cf02de91cead95e",
+								"section_index": 0,
+								"id": "fu6BmT8Cf6ygdhZeVniXMn",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Living Room",
+								"index": 1,
+								"caption": "Living Room",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/nGbdzF3LVug7i4dNWddDCm?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=833182adb409650ede7e8a7ed82a4510913b76dd",
+								"section_index": 0,
+								"id": "nGbdzF3LVug7i4dNWddDCm",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Master Bedroom",
+								"index": 0,
+								"caption": "Master Bedroom",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/jnsMVMx3E6Pgt4Aiwp75pS?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=7f21e7c0c2183f420851733d79fc87558f9bfa4a",
+								"section_index": 1,
+								"id": "jnsMVMx3E6Pgt4Aiwp75pS",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Master Bathroom",
+								"index": 0,
+								"caption": "Master Bathroom",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/56GExN9aBi8qpzTJwasB9C?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=680b751221cb7b46607cfb6ab8f7bd2a3d11f8b9",
+								"section_index": 2,
+								"id": "56GExN9aBi8qpzTJwasB9C",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Master Bathroom",
+								"index": 1,
+								"caption": "Master Bathroom",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/dnofref6LPDArHJhr7Y3aG?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=7b7a217bfecf5e926bd70511d13f61510f386a7f",
+								"section_index": 2,
+								"id": "dnofref6LPDArHJhr7Y3aG",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Kitchen",
+								"index": 0,
+								"caption": "Kitchen",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/o6BxCULSWnUvix6JEjRcA9?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=0a412789e78670ceef2771ed0caecb15b933c8ab",
+								"section_index": 3,
+								"id": "o6BxCULSWnUvix6JEjRcA9",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Kitchen",
+								"index": 1,
+								"caption": "Kitchen",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/DBN7K6YTyFFtmEMFppyWjX?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=046addea510a2d968882c288f8663ff0d345d443",
+								"section_index": 3,
+								"id": "DBN7K6YTyFFtmEMFppyWjX",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Kitchen",
+								"index": 2,
+								"caption": "Kitchen",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/dwxKgUUsWtVUHLbh8sMExX?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=37af10feac7a1c63cb120c4c85b730ec634629fd",
+								"section_index": 3,
+								"id": "dwxKgUUsWtVUHLbh8sMExX",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Floor Plan",
+								"index": 99999,
+								"caption": "Floor Plan",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/iC2QFpEwEaXNtDkD4Azj2Z?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=d0143a25463a720072e564d4ff9a4dcd7a3fb910",
+								"section_index": 99999,
+								"id": "iC2QFpEwEaXNtDkD4Azj2Z",
+								"photo_validity": null
+							},
+							{
+								"category": "Floor Plan",
+								"index": 99999,
+								"caption": "Floor Plan",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/iC2QFpEwEaXNtDkD4Azj2Z?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=d0143a25463a720072e564d4ff9a4dcd7a3fb910",
+								"section_index": 99999,
+								"id": "iC2QFpEwEaXNtDkD4Azj2Z",
+								"photo_validity": null
+							}
+						],
+						"user": {
+							"phone": "+6590694099",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/dKvaksZtWqUMf6aF2dV68g?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=6e32d016f2d95e1b2d3fa9f3b89c8e1bc31d27fc",
+							"id": "qn32SmyQ5X5Gde3ZLoVsZA",
+							"name": "Glootie"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/fu6BmT8Cf6ygdhZeVniXMn?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=86d3204f958e8db67752a68e1cf02de91cead95e",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deWene3hLhnPHLy7tC6tLj7F",
+							"city": "ctsingapore",
+							"subzone": "szmaritime_square",
+							"zone": "zobukit_merah",
+							"district": "dtdistrict04",
+							"region": "recentral_region",
+							"street": "stbfb5c91dd58334ca5b2f",
+							"address": "advvqH73sZi2cNdHpyFxxXiD",
+							"local": "deWene3hLhnPHLy7tC6tLj7F",
+							"street_name": "sn5a36433aa26a85273f63"
+						},
+						"attributes": {
+							"bedrooms": 2,
+							"bathrooms": 2,
+							"area_ppsf_formatted": "$1,008.71 psf",
+							"price_formatted": "S$2,343,222",
+							"price": 2343222,
+							"other_price": "S$2,343,222",
+							"area_ppsf": 1008.71,
+							"area_size": 2323,
+							"completed_at": 2011,
+							"tenure": null,
+							"bedrooms_formatted": "2 Beds",
+							"area_size_formatted": "2,323 sqft",
+							"bathrooms_formatted": "2 Baths"
+						},
+						"address_line_2": "1 Keppel Bay View · D04",
+						"address_line_1": "Reflections At Keppel Bay"
+					},
+					{
+						"sub_category": "hdb_4r",
+						"listing_url": "/singapore/sale/property/property-in-singapore-hdb-qkaf5UWr22dNtLqrDNCNKC",
+						"psf_subtext": "",
+						"date_formatted": "37 mins ago",
+						"id": "qkaf5UWr22dNtLqrDNCNKC",
+						"sub_category_formatted": "HDB 4 Rooms",
+						"overlays": [],
+						"main_category": "hdb",
+						"highlights": null,
+						"location": {
+							"district": "03"
+						},
+						"address_name": "106 Henderson Crescent",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/6x5NfshsGT7nvhxAC3YNA3?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=fe4f61d514134a9762085df5de77a560b5faf6b8",
+								"caption": null,
+								"id": "6x5NfshsGT7nvhxAC3YNA3",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/2PH5iVMcU7H9CokohGkiD4?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=f2ba2d1b5b81bd00aaffdee4ecee0059a94fef62",
+								"caption": null,
+								"id": "2PH5iVMcU7H9CokohGkiD4",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/FcvkUFma6qVcjsXkSZTuVd?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=0d71ba6d803c6282c0a6417fd93360169f639243",
+								"caption": null,
+								"id": "FcvkUFma6qVcjsXkSZTuVd",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/smqFeJR8SoYYCFrr3KfpDV?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=01cabc640901cd377e4a1f060cc81e572a8378f8",
+								"caption": null,
+								"id": "smqFeJR8SoYYCFrr3KfpDV",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/NTQKMvofsSQ5VKLzeQExWZ?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=eba5d19277b7e69f6f45b18d916e9a9ba0c0b90e",
+								"caption": null,
+								"id": "NTQKMvofsSQ5VKLzeQExWZ",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/9ETTTpXcwTv3Vnyb3YHA5W?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=7d8a2f226d3fc7755cd997432af754d39ad99787",
+								"caption": null,
+								"id": "9ETTTpXcwTv3Vnyb3YHA5W",
+								"photo_validity": null
+							}
+						],
+						"user": {
+							"phone": "+6590694099",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/dKvaksZtWqUMf6aF2dV68g?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=6e32d016f2d95e1b2d3fa9f3b89c8e1bc31d27fc",
+							"id": "qn32SmyQ5X5Gde3ZLoVsZA",
+							"name": "Glootie"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/6x5NfshsGT7nvhxAC3YNA3?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=fe4f61d514134a9762085df5de77a560b5faf6b8",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"city": "ctsingapore",
+							"subzone": "szhenderson_hill",
+							"zone": "zobukit_merah",
+							"district": "dtdistrict03",
+							"hdb_town": "htbukit_merah",
+							"region": "recentral_region",
+							"street": "st72ae84fc4eeec327837d",
+							"address": "aduSVEieKqgjsqtCtLABsmzB",
+							"local": "aduSVEieKqgjsqtCtLABsmzB",
+							"street_name": "sn036badb089a8e0d0eb0d"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 2,
+							"area_ppsf_formatted": "$1,040.89 psf",
+							"price_formatted": "S$280,000",
+							"price": 280000,
+							"other_price": "S$280,000",
+							"area_ppsf": 1040.89,
+							"area_size": 269,
+							"completed_at": null,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "269 sqft",
+							"bathrooms_formatted": "2 Baths"
+						},
+						"address_line_2": "Singapore 150106 · D03",
+						"address_line_1": "106 Henderson Crescent"
+					},
+					{
+						"sub_category": "generic_condo",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-Rn4oQuUgEDR55rcf72fwEE",
+						"psf_subtext": "",
+						"date_formatted": "37 mins ago",
+						"id": "Rn4oQuUgEDR55rcf72fwEE",
+						"sub_category_formatted": "Condo",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": null,
+						"location": {
+							"district": "19"
+						},
+						"address_name": "Affinity At Serangoon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"index": 0,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/bsmtu5qHx2FDvuXZn7yL7c?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=48fa988cf5fc03301de311ad1c4c918f4868e29b",
+								"caption": null,
+								"id": "bsmtu5qHx2FDvuXZn7yL7c",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": null,
+								"index": 1,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/nZbaad6yrmd7TL7Qm8K2Ni?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=1c5b88a14d2fb9ce2aeb9c068f4d0ee6777f25d0",
+								"caption": null,
+								"id": "nZbaad6yrmd7TL7Qm8K2Ni",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": null,
+								"index": 2,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/Mtfshn7HKJfwkReksM6Awd?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=de8081fc5ee1c7091c26ce9cb0e4a51ecaef8cf5",
+								"caption": null,
+								"id": "Mtfshn7HKJfwkReksM6Awd",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": null,
+								"index": 3,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/G5MFeYmXtLE8pqA8EnfR2W?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=a54ed72b2c63c6d94977874ad5c93f8ac98d08c0",
+								"caption": null,
+								"id": "G5MFeYmXtLE8pqA8EnfR2W",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": null,
+								"index": 4,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/EkvNNmqKzdXGp5EoW3t2M6?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=20f4c80c253360424f592ae75557c92ff929aa91",
+								"caption": null,
+								"id": "EkvNNmqKzdXGp5EoW3t2M6",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "",
+								"index": 5,
+								"section_index": 0,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/HSHjtJQKnkyPGnEKEREYND?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=2911fbf8f1948fb1f4c30d77c11d8f09612dac6b",
+								"caption": "",
+								"id": "HSHjtJQKnkyPGnEKEREYND",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							}
+						],
+						"user": {
+							"phone": "+6590694099",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/dKvaksZtWqUMf6aF2dV68g?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=6e32d016f2d95e1b2d3fa9f3b89c8e1bc31d27fc",
+							"id": "qn32SmyQ5X5Gde3ZLoVsZA",
+							"name": "Glootie"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/bsmtu5qHx2FDvuXZn7yL7c?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=48fa988cf5fc03301de311ad1c4c918f4868e29b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "dewyzvE6cG2EfFAkKKRLyeRE",
+							"city": "ctsingapore",
+							"subzone": "szserangoon_garden",
+							"zone": "zoserangoon",
+							"district": "dtdistrict19",
+							"hdb_town": "htserangoon",
+							"region": "renorth-east_region",
+							"street": "staa43c0f7975b2ca8f770",
+							"address": "adugBK3HmhWddC2dTwAhkdmU",
+							"local": "dewyzvE6cG2EfFAkKKRLyeRE",
+							"street_name": "snf15710ddeb4b23374ee0"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 2,
+							"area_ppsf_formatted": "$1,001 psf",
+							"price_formatted": "S$999,999",
+							"price": 999999,
+							"other_price": "S$999,999",
+							"area_ppsf": 1001,
+							"area_size": 999,
+							"completed_at": 2024,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "2 Baths"
+						},
+						"address_line_2": "22 Serangoon North Avenue 1 · D19",
+						"address_line_1": "Affinity At Serangoon"
+					},
+					{
+						"sub_category": "generic_condo",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-xuHJfx6YfwwPYPxschxQ3d",
+						"psf_subtext": "",
+						"date_formatted": "37 mins ago",
+						"id": "xuHJfx6YfwwPYPxschxQ3d",
+						"sub_category_formatted": "Condo",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": null,
+						"location": {
+							"district": "19"
+						},
+						"address_name": "The Springbloom",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/PZ9fwCxLi5m5WPsFdoX8Ck?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=60744c4bdf918d9b907df3b1680f4d593833343d",
+								"id": "PZ9fwCxLi5m5WPsFdoX8Ck",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/4CYQfuPQpFLroKgHtejPjB?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=a7a8d004e6dca43711e71ff0de5e076eac658055",
+								"id": "4CYQfuPQpFLroKgHtejPjB",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/VcDo2bMiHBUo84FJHhvkTD?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=7423ef96cad6685849909a24f25db89f4fd076c7",
+								"id": "VcDo2bMiHBUo84FJHhvkTD",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/DiaQVhm9DWjr4h8Jw5dbgf?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=1ebf9674f2eb57347929ca8ed26b11b6f54a161c",
+								"id": "DiaQVhm9DWjr4h8Jw5dbgf",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/rJGJ6jnZuu2gXEGFhELeDg?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=fdaf2cfc1c06b3c0f334eb4aa408a7cdce42a730",
+								"id": "rJGJ6jnZuu2gXEGFhELeDg",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/zJd3MiviKoHCJ5kfQSQLwM?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=03b21af53d5d48575a43e126b82e6b39ac1af9f9",
+								"id": "zJd3MiviKoHCJ5kfQSQLwM",
+								"photo_validity": null
+							}
+						],
+						"user": {
+							"phone": "+6590694099",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/dKvaksZtWqUMf6aF2dV68g?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=6e32d016f2d95e1b2d3fa9f3b89c8e1bc31d27fc",
+							"id": "qn32SmyQ5X5Gde3ZLoVsZA",
+							"name": "Glootie"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/PZ9fwCxLi5m5WPsFdoX8Ck?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=60744c4bdf918d9b907df3b1680f4d593833343d",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deWMXvMmKTS5pFjwLT4hS7ae",
+							"city": "ctsingapore",
+							"subzone": "szlorong_chuan",
+							"zone": "zoserangoon",
+							"district": "dtdistrict19",
+							"hdb_town": "htserangoon",
+							"region": "renorth-east_region",
+							"street": "st1bc381fb651c5cdfe3fd",
+							"address": "adrWzKiedeicQAQNvtuxRX5D",
+							"local": "deWMXvMmKTS5pFjwLT4hS7ae",
+							"street_name": "sn7f7cec36050ebc4c6c6e"
+						},
+						"attributes": {
+							"bedrooms": 2,
+							"bathrooms": null,
+							"area_ppsf_formatted": "$1,001 psf",
+							"price_formatted": "S$999,999",
+							"price": 999999,
+							"other_price": "S$999,999",
+							"area_ppsf": 1001,
+							"area_size": 999,
+							"completed_at": 1999,
+							"tenure": null,
+							"bedrooms_formatted": "2 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": ""
+						},
+						"address_line_2": "141 Serangoon Avenue 3 · D19",
+						"address_line_1": "The Springbloom"
+					},
+					{
+						"sub_category": "generic_condo",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-yBhtWdcdjatQ4mPebf6EaC",
+						"psf_subtext": "",
+						"date_formatted": "1 hour ago",
+						"id": "yBhtWdcdjatQ4mPebf6EaC",
+						"sub_category_formatted": "Condo",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": null,
+						"location": {
+							"district": "15"
+						},
+						"address_name": "Joo Chiat Apartments",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": "Living Room",
+								"index": 0,
+								"caption": "Living Room",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/sszMUEgwF9xvpGstBzoRyG?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=3f6d6498801069abf9001f27cadf076c865b0c3c",
+								"section_index": 0,
+								"id": "sszMUEgwF9xvpGstBzoRyG",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Master Bedroom",
+								"index": 1,
+								"caption": "Master Bedroom",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/j8LFCpygPPvwCGtZpVgeJ7?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=c1d6d1468caa4728d9523394e994035fc037972c",
+								"section_index": 1,
+								"id": "j8LFCpygPPvwCGtZpVgeJ7",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": "Master Bathroom",
+								"index": 2,
+								"caption": "Master Bathroom",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/KB8weXrXXWuDLeR4ypJSsg?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=f90de825cd5e7475c66cfa30f9a994ff33e26463",
+								"section_index": 2,
+								"id": "KB8weXrXXWuDLeR4ypJSsg",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							}
+						],
+						"user": {
+							"phone": "+6590694099",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/dKvaksZtWqUMf6aF2dV68g?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=6e32d016f2d95e1b2d3fa9f3b89c8e1bc31d27fc",
+							"id": "qn32SmyQ5X5Gde3ZLoVsZA",
+							"name": "Glootie"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/sszMUEgwF9xvpGstBzoRyG?width=320&mode=fill&text=Glootie&sampling=lanczos&quality=70&version=1&signature=3f6d6498801069abf9001f27cadf076c865b0c3c",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deJRCdr4RteEjdMBS2ueDvie",
+							"city": "ctsingapore",
+							"subzone": "szkatong",
+							"zone": "zomarine_parade",
+							"district": "dtdistrict15",
+							"region": "recentral_region",
+							"street": "sta4405dca79aa51096417",
+							"address": "adA6LnkDDEz7DqmMWeCEBpYU",
+							"local": "deJRCdr4RteEjdMBS2ueDvie",
+							"street_name": "sn048d40f3fe3fe58b7877"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 1,
+							"area_ppsf_formatted": "$1,722.09 psf",
+							"price_formatted": "S$2,123,332",
+							"price": 2123332,
+							"other_price": "S$2,123,332",
+							"area_ppsf": 1722.09,
+							"area_size": 1233,
+							"completed_at": 1963,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "1,233 sqft",
+							"bathrooms_formatted": "1 Bath"
+						},
+						"address_line_2": "485 Joo Chiat Road · D15",
+						"address_line_1": "Joo Chiat Apartments"
+					},
+					{
+						"sub_category": "generic_condo",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-RysmCWakAeMBq3P6N9vrrk",
+						"psf_subtext": "",
+						"date_formatted": "5 hours ago",
+						"id": "RysmCWakAeMBq3P6N9vrrk",
+						"sub_category_formatted": "Condo",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "Eu ipsum veniam donec, ante nunc in eu congue rutrum nunc, diam est posuere erat dapibus venenatis. ",
+						"location": {
+							"district": "20"
+						},
+						"address_name": "Bishan Park Condominium",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/RS5qSWCSDR4Hdyu6QvVAbZ?width=320&mode=fill&text=Dwenjie&sampling=lanczos&quality=70&version=1&signature=05ec5595cfe59cecbc43193b513b11aaf6938bab",
+								"caption": null,
+								"id": "RS5qSWCSDR4Hdyu6QvVAbZ",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/U8RW2VzFfj3wYvQTYGe5Dk?width=320&mode=fill&text=Dwenjie&sampling=lanczos&quality=70&version=1&signature=c58acbc50208d6af90114f73958bb440e33be533",
+								"caption": null,
+								"id": "U8RW2VzFfj3wYvQTYGe5Dk",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/Xkd6PzjKvKXF3WBu48AFM4?width=320&mode=fill&text=Dwenjie&sampling=lanczos&quality=70&version=1&signature=d7680b2ca82a780b2b0d7324e622372a3d5e64ae",
+								"caption": null,
+								"id": "Xkd6PzjKvKXF3WBu48AFM4",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/CxSHUF24CRKyActkCdNNjc?width=320&mode=fill&text=Dwenjie&sampling=lanczos&quality=70&version=1&signature=3f380df7cac2a13595889436958f673e70d410e6",
+								"caption": null,
+								"id": "CxSHUF24CRKyActkCdNNjc",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/E4Mzz9buSKbMqXNc5vgLsD?width=320&mode=fill&text=Dwenjie&sampling=lanczos&quality=70&version=1&signature=fc1e4a1b0866164c7693a130c934c68771079ba6",
+								"caption": null,
+								"id": "E4Mzz9buSKbMqXNc5vgLsD",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/FkumeuwptLDyYKqavTuk7C?width=320&mode=fill&text=Dwenjie&sampling=lanczos&quality=70&version=1&signature=aa457746df2c20a3cf6d721b52cc0448d4f22de6",
+								"caption": null,
+								"id": "FkumeuwptLDyYKqavTuk7C",
+								"photo_validity": null
+							}
+						],
+						"user": {
+							"phone": "+6583256577",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/SJ7QdnEnDckNXc34h8znhf?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=53b7d86f57ee8b2f6cea09ee325d9a6176ca8838",
+							"id": "pg5crX6XozbZQ7zxtpnjR7",
+							"name": "Dwenjie"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/RS5qSWCSDR4Hdyu6QvVAbZ?width=320&mode=fill&text=Dwenjie&sampling=lanczos&quality=70&version=1&signature=05ec5595cfe59cecbc43193b513b11aaf6938bab",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "de5Vk4GV5fTs5ntGFwBncDgR",
+							"city": "ctsingapore",
+							"subzone": "szupper_thomson",
+							"zone": "zobishan",
+							"district": "dtdistrict20",
+							"hdb_town": "htbishan",
+							"region": "recentral_region",
+							"street": "st3dc91aecbb7d362f0059",
+							"address": "adzAg7in6e2vhWYDLrhQgUKN",
+							"local": "de5Vk4GV5fTs5ntGFwBncDgR",
+							"street_name": "sn5ccb47d00d0e35381de9"
+						},
+						"attributes": {
+							"bedrooms": 1,
+							"bathrooms": 1,
+							"area_ppsf_formatted": "$1,492.54 psf",
+							"price_formatted": "S$1,800,000",
+							"price": 1800000,
+							"other_price": "S$1,800,000",
+							"area_ppsf": 1492.54,
+							"area_size": 1206,
+							"completed_at": 1994,
+							"tenure": null,
+							"bedrooms_formatted": "1 Bed",
+							"area_size_formatted": "1,206 sqft",
+							"bathrooms_formatted": "1 Bath"
+						},
+						"address_line_2": "16 Sin Ming Walk · D20",
+						"address_line_1": "Bishan Park Condominium"
+					},
+					{
+						"sub_category": "clusterhouse",
+						"listing_url": "/singapore/sale/property/property-in-singapore-landed-MwLSHX3YR665yNfXFVCnnN",
+						"psf_subtext": "land",
+						"date_formatted": "9 mins ago",
+						"id": "MwLSHX3YR665yNfXFVCnnN",
+						"sub_category_formatted": "Cluster House",
+						"overlays": [],
+						"main_category": "landed",
+						"highlights": null,
+						"location": {
+							"district": "11"
+						},
+						"address_name": "Asimont Villas",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/4jBRmWgAbdCXtXkM6ff6gb?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=0f09349ecda84ec20c10d62dbe92501d6138965f",
+								"id": "4jBRmWgAbdCXtXkM6ff6gb",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/aCNRtitKmjRjTohv8e4qfa?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=3ad33b0c8f01cca541377cd1d248319d7ded9de3",
+								"id": "aCNRtitKmjRjTohv8e4qfa",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/CComqwhzBAzbhdUdnxPBJR?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=47bc81b483f82f77ba702070c27531eb42fbe949",
+								"id": "CComqwhzBAzbhdUdnxPBJR",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/dvziquRqWfZmcMvFNA8Dwg?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=1aca1ee91010b8557b63ba63fb81ba4c07060e7c",
+								"id": "dvziquRqWfZmcMvFNA8Dwg",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/aZTr6j3dNjWwfAxyPcDW7T?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=f245b99fa3f8417adff4be9da247c16f8d118d32",
+								"id": "aZTr6j3dNjWwfAxyPcDW7T",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/SUMMeFaSVeU2aXw6R7az9F?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=4affb92602f1f86ff9a2df612d24b113f671c8af",
+								"id": "SUMMeFaSVeU2aXw6R7az9F",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/W4QR6pRYyvcRRjFXu4cis8?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=ea7f61cc46b9ae9fcc6c1cd3bf46c3d715bccaa4",
+								"id": "W4QR6pRYyvcRRjFXu4cis8",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/q3dUPPiVaYZHzEBKURAAMK?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=aaa3b5401d80542c6503346272956ffdf3f91ec9",
+								"id": "q3dUPPiVaYZHzEBKURAAMK",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/NMSfKavp97v8f6aKaHNvn9?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=4079858a62e69be022b7be0d658c259cfd6ebafb",
+								"id": "NMSfKavp97v8f6aKaHNvn9",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/DPrRUFSxneMAaKYdvbvmnS?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=e2bff7ad1bd6021b3566d998da433edd10fd3fc4",
+								"id": "DPrRUFSxneMAaKYdvbvmnS",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/MyzCYMQPVdEuruaHMhmTxU?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=6c3bf15542a180533c6202bef1889ab140a6c874",
+								"id": "MyzCYMQPVdEuruaHMhmTxU",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/kxzQqRTp5FyjvvohPVRJaT?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=1642f406ef44135ba7ab9c80dfbbacbaea49b1b6",
+								"id": "kxzQqRTp5FyjvvohPVRJaT",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/nEfFgMBKPx6FQP9yHxm5BX?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=1290e7a5a463b73d9df815fd41d6daea125150c7",
+								"id": "nEfFgMBKPx6FQP9yHxm5BX",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/aYQjbVfev5GmduYeqoge4?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=68996f719564a2f6c5e9655ef87c2aaa64df1d13",
+								"id": "aYQjbVfev5GmduYeqoge4",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/eTfRxKMLx5qySoECWAiebE?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=80f94e70a011231ff16217eb4c0416a8677e4a1b",
+								"id": "eTfRxKMLx5qySoECWAiebE",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6598170263",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/kx2YPisFzTThydXFc3nhBH?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=d34471c382cd4c35aed4319b2735c91015635cae",
+							"id": "z4dZcFVQHQGqJeMDhRyQ6H",
+							"name": "Gilda Seah"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/4jBRmWgAbdCXtXkM6ff6gb?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=0f09349ecda84ec20c10d62dbe92501d6138965f",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deXZjvbkxjPye5nHbhnE8b4i",
+							"city": "ctsingapore",
+							"subzone": "szmalcolm",
+							"zone": "zonovena",
+							"district": "dtdistrict11",
+							"region": "recentral_region",
+							"street": "st93a1aea953772bf2624e",
+							"address": "adr7Q5rDgniaDdfPPpAyVnsb",
+							"local": "deXZjvbkxjPye5nHbhnE8b4i",
+							"street_name": "sn8a0aed4adc9c5f988ec0"
+						},
+						"attributes": {
+							"bedrooms": 4,
+							"bathrooms": 5,
+							"area_ppsf_formatted": "$1,311.2 psf",
+							"price_formatted": "S$6,577,000",
+							"price": 6577000,
+							"other_price": "S$6,577,000",
+							"area_ppsf": 1311.2,
+							"area_size": 5016,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "4 Beds",
+							"area_size_formatted": "5,016 sqft",
+							"bathrooms_formatted": "5 Baths"
+						},
+						"address_line_2": "Asimont Lane · D11",
+						"address_line_1": "Asimont Villas"
+					},
+					{
+						"sub_category": "generic_condo",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-gSeFV2MGjddEkHV5Sw3cHB",
+						"psf_subtext": "",
+						"date_formatted": "9 mins ago",
+						"id": "gSeFV2MGjddEkHV5Sw3cHB",
+						"sub_category_formatted": "Condo",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "Qw",
+						"location": {
+							"district": "20"
+						},
+						"address_name": "Bishan Park Condominium",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/37Rr3FWeFJ8mXsnT32HvGY?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=04675afc848b740362b1e957c7c7379f5251acd6",
+								"caption": "",
+								"id": "37Rr3FWeFJ8mXsnT32HvGY",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/RF2p4K2aNnyogLbQTMHaqm?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=9993d5caa220720c6b7cc34934690cb7d1020e61",
+								"caption": "",
+								"id": "RF2p4K2aNnyogLbQTMHaqm",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/BSrbgbyToeGtCAyxgbi9ii?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=622ea1216b03cddf7815fa4425daf72df3db8e74",
+								"caption": "",
+								"id": "BSrbgbyToeGtCAyxgbi9ii",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/VcuPqgTea3dDnZfhPXFYuK?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=38341bd99927496b91d2fbd657f38057ccf737ae",
+								"caption": "",
+								"id": "VcuPqgTea3dDnZfhPXFYuK",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/deAtFc3g8zWj4iBFFN9TgS?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=9dc4cac7ebfba0e3a82be3f5a52bfbf0d24a050b",
+								"caption": "",
+								"id": "deAtFc3g8zWj4iBFFN9TgS",
+								"photo_validity": null
+							}
+						],
+						"user": {
+							"phone": "+6588881111",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/Gs9eVKHAqZTxsFtPRsPxmW?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=a2efb4d7c7fd2bb3f218204fedc3065bc0b802ba",
+							"id": "PyYPp9KVgXo6jDKeBsCeC6",
+							"name": "Darius XV"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/37Rr3FWeFJ8mXsnT32HvGY?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=04675afc848b740362b1e957c7c7379f5251acd6",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "de5Vk4GV5fTs5ntGFwBncDgR",
+							"city": "ctsingapore",
+							"subzone": "szupper_thomson",
+							"zone": "zobishan",
+							"district": "dtdistrict20",
+							"hdb_town": "htbishan",
+							"region": "recentral_region",
+							"street": "st3dc91aecbb7d362f0059",
+							"address": "adX8Qh75DWGHHFthh2YGcrvU",
+							"local": "de5Vk4GV5fTs5ntGFwBncDgR",
+							"street_name": "sn5ccb47d00d0e35381de9"
+						},
+						"attributes": {
+							"bedrooms": 2,
+							"bathrooms": null,
+							"area_ppsf_formatted": "$1,001 psf",
+							"price_formatted": "S$999,999",
+							"price": 999999,
+							"other_price": "S$999,999",
+							"area_ppsf": 1001,
+							"area_size": 999,
+							"completed_at": 1994,
+							"tenure": null,
+							"bedrooms_formatted": "2 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": ""
+						},
+						"address_line_2": "14 Sin Ming Walk · D20",
+						"address_line_1": "Bishan Park Condominium"
+					},
+					{
+						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-mGqwnxtzHj2GjJut5mE2vg",
+						"psf_subtext": "",
+						"date_formatted": "2 mins ago",
+						"id": "mGqwnxtzHj2GjJut5mE2vg",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					},
+					{
+						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-jV8T5mxaqGyiK5LhzusWLo",
+						"psf_subtext": "",
+						"date_formatted": "3 mins ago",
+						"id": "jV8T5mxaqGyiK5LhzusWLo",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					},
+					{
+						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-dPFws9uZRxcGUNUAXnV53U",
+						"psf_subtext": "",
+						"date_formatted": "9 mins ago",
+						"id": "dPFws9uZRxcGUNUAXnV53U",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					},
+					{
+						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-3KUm8DHT4sTtoPzhkpjh9V",
+						"psf_subtext": "",
+						"date_formatted": "10 mins ago",
+						"id": "3KUm8DHT4sTtoPzhkpjh9V",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					}
+				],
+				"title": "63,073 SALES"
+			}
+		]
+	}
+}

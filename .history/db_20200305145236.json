@@ -1,0 +1,841 @@
+{
+	"data": {
+		"count": {
+			"matched_filters_and_search_bound": 63073,
+			"total": 63073,
+			"matched_filters_and_search_bound_and_low_priority": 0,
+			"matched_filters_and_search_bound_and_high_priority": 63073,
+			"clusters_total": 74273,
+			"matched_filters": 63073,
+			"sections": {
+				"rest": 63073
+			}
+		},
+		"sections": [
+			{
+				"count": 63073,
+				"label": "rest",
+				"listings": [
+					{
+						"sub_category": "clusterhouse",
+						"listing_url": "/singapore/sale/property/property-in-singapore-landed-MwLSHX3YR665yNfXFVCnnN",
+						"psf_subtext": "land",
+						"date_formatted": "9 mins ago",
+						"id": "MwLSHX3YR665yNfXFVCnnN",
+						"sub_category_formatted": "Cluster House",
+						"overlays": [],
+						"main_category": "landed",
+						"highlights": null,
+						"location": {
+							"district": "11"
+						},
+						"address_name": "Asimont Villas",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/4jBRmWgAbdCXtXkM6ff6gb?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=0f09349ecda84ec20c10d62dbe92501d6138965f",
+								"id": "4jBRmWgAbdCXtXkM6ff6gb",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/aCNRtitKmjRjTohv8e4qfa?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=3ad33b0c8f01cca541377cd1d248319d7ded9de3",
+								"id": "aCNRtitKmjRjTohv8e4qfa",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/CComqwhzBAzbhdUdnxPBJR?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=47bc81b483f82f77ba702070c27531eb42fbe949",
+								"id": "CComqwhzBAzbhdUdnxPBJR",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/dvziquRqWfZmcMvFNA8Dwg?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=1aca1ee91010b8557b63ba63fb81ba4c07060e7c",
+								"id": "dvziquRqWfZmcMvFNA8Dwg",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/aZTr6j3dNjWwfAxyPcDW7T?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=f245b99fa3f8417adff4be9da247c16f8d118d32",
+								"id": "aZTr6j3dNjWwfAxyPcDW7T",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/SUMMeFaSVeU2aXw6R7az9F?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=4affb92602f1f86ff9a2df612d24b113f671c8af",
+								"id": "SUMMeFaSVeU2aXw6R7az9F",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/W4QR6pRYyvcRRjFXu4cis8?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=ea7f61cc46b9ae9fcc6c1cd3bf46c3d715bccaa4",
+								"id": "W4QR6pRYyvcRRjFXu4cis8",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/q3dUPPiVaYZHzEBKURAAMK?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=aaa3b5401d80542c6503346272956ffdf3f91ec9",
+								"id": "q3dUPPiVaYZHzEBKURAAMK",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/NMSfKavp97v8f6aKaHNvn9?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=4079858a62e69be022b7be0d658c259cfd6ebafb",
+								"id": "NMSfKavp97v8f6aKaHNvn9",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/DPrRUFSxneMAaKYdvbvmnS?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=e2bff7ad1bd6021b3566d998da433edd10fd3fc4",
+								"id": "DPrRUFSxneMAaKYdvbvmnS",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/MyzCYMQPVdEuruaHMhmTxU?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=6c3bf15542a180533c6202bef1889ab140a6c874",
+								"id": "MyzCYMQPVdEuruaHMhmTxU",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/kxzQqRTp5FyjvvohPVRJaT?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=1642f406ef44135ba7ab9c80dfbbacbaea49b1b6",
+								"id": "kxzQqRTp5FyjvvohPVRJaT",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/nEfFgMBKPx6FQP9yHxm5BX?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=1290e7a5a463b73d9df815fd41d6daea125150c7",
+								"id": "nEfFgMBKPx6FQP9yHxm5BX",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/aYQjbVfev5GmduYeqoge4?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=68996f719564a2f6c5e9655ef87c2aaa64df1d13",
+								"id": "aYQjbVfev5GmduYeqoge4",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/eTfRxKMLx5qySoECWAiebE?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=80f94e70a011231ff16217eb4c0416a8677e4a1b",
+								"id": "eTfRxKMLx5qySoECWAiebE",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6598170263",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/kx2YPisFzTThydXFc3nhBH?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=d34471c382cd4c35aed4319b2735c91015635cae",
+							"id": "z4dZcFVQHQGqJeMDhRyQ6H",
+							"name": "Gilda Seah"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/4jBRmWgAbdCXtXkM6ff6gb?width=320&mode=fill&text=Gilda+Seah&sampling=lanczos&quality=70&version=1&signature=0f09349ecda84ec20c10d62dbe92501d6138965f",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deXZjvbkxjPye5nHbhnE8b4i",
+							"city": "ctsingapore",
+							"subzone": "szmalcolm",
+							"zone": "zonovena",
+							"district": "dtdistrict11",
+							"region": "recentral_region",
+							"street": "st93a1aea953772bf2624e",
+							"address": "adr7Q5rDgniaDdfPPpAyVnsb",
+							"local": "deXZjvbkxjPye5nHbhnE8b4i",
+							"street_name": "sn8a0aed4adc9c5f988ec0"
+						},
+						"attributes": {
+							"bedrooms": 4,
+							"bathrooms": 5,
+							"area_ppsf_formatted": "$1,311.2 psf",
+							"price_formatted": "S$6,577,000",
+							"price": 6577000,
+							"other_price": "S$6,577,000",
+							"area_ppsf": 1311.2,
+							"area_size": 5016,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "4 Beds",
+							"area_size_formatted": "5,016 sqft",
+							"bathrooms_formatted": "5 Baths"
+						},
+						"address_line_2": "Asimont Lane · D11",
+						"address_line_1": "Asimont Villas"
+					},
+					{
+						"sub_category": "generic_condo",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-gSeFV2MGjddEkHV5Sw3cHB",
+						"psf_subtext": "",
+						"date_formatted": "9 mins ago",
+						"id": "gSeFV2MGjddEkHV5Sw3cHB",
+						"sub_category_formatted": "Condo",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "Qw",
+						"location": {
+							"district": "20"
+						},
+						"address_name": "Bishan Park Condominium",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/37Rr3FWeFJ8mXsnT32HvGY?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=04675afc848b740362b1e957c7c7379f5251acd6",
+								"caption": "",
+								"id": "37Rr3FWeFJ8mXsnT32HvGY",
+								"photo_validity": {
+									"text_undetected": true,
+									"faces_undetected": true
+								}
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/RF2p4K2aNnyogLbQTMHaqm?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=9993d5caa220720c6b7cc34934690cb7d1020e61",
+								"caption": "",
+								"id": "RF2p4K2aNnyogLbQTMHaqm",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/BSrbgbyToeGtCAyxgbi9ii?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=622ea1216b03cddf7815fa4425daf72df3db8e74",
+								"caption": "",
+								"id": "BSrbgbyToeGtCAyxgbi9ii",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/VcuPqgTea3dDnZfhPXFYuK?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=38341bd99927496b91d2fbd657f38057ccf737ae",
+								"caption": "",
+								"id": "VcuPqgTea3dDnZfhPXFYuK",
+								"photo_validity": null
+							},
+							{
+								"category": null,
+								"index": null,
+								"section_index": null,
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/deAtFc3g8zWj4iBFFN9TgS?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=9dc4cac7ebfba0e3a82be3f5a52bfbf0d24a050b",
+								"caption": "",
+								"id": "deAtFc3g8zWj4iBFFN9TgS",
+								"photo_validity": null
+							}
+						],
+						"user": {
+							"phone": "+6588881111",
+							"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/Gs9eVKHAqZTxsFtPRsPxmW?width=120&height=120&mode=fill&sampling=lanczos&quality=70&version=1&is_watermark=True&signature=a2efb4d7c7fd2bb3f218204fedc3065bc0b802ba",
+							"id": "PyYPp9KVgXo6jDKeBsCeC6",
+							"name": "Darius XV"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/37Rr3FWeFJ8mXsnT32HvGY?width=320&mode=fill&text=Darius+XV&sampling=lanczos&quality=70&version=1&signature=04675afc848b740362b1e957c7c7379f5251acd6",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "de5Vk4GV5fTs5ntGFwBncDgR",
+							"city": "ctsingapore",
+							"subzone": "szupper_thomson",
+							"zone": "zobishan",
+							"district": "dtdistrict20",
+							"hdb_town": "htbishan",
+							"region": "recentral_region",
+							"street": "st3dc91aecbb7d362f0059",
+							"address": "adX8Qh75DWGHHFthh2YGcrvU",
+							"local": "de5Vk4GV5fTs5ntGFwBncDgR",
+							"street_name": "sn5ccb47d00d0e35381de9"
+						},
+						"attributes": {
+							"bedrooms": 2,
+							"bathrooms": null,
+							"area_ppsf_formatted": "$1,001 psf",
+							"price_formatted": "S$999,999",
+							"price": 999999,
+							"other_price": "S$999,999",
+							"area_ppsf": 1001,
+							"area_size": 999,
+							"completed_at": 1994,
+							"tenure": null,
+							"bedrooms_formatted": "2 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": ""
+						},
+						"address_line_2": "14 Sin Ming Walk · D20",
+						"address_line_1": "Bishan Park Condominium"
+					},
+					{
+						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-mGqwnxtzHj2GjJut5mE2vg",
+						"psf_subtext": "",
+						"date_formatted": "2 mins ago",
+						"id": "mGqwnxtzHj2GjJut5mE2vg",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					},
+					{
+						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-jV8T5mxaqGyiK5LhzusWLo",
+						"psf_subtext": "",
+						"date_formatted": "3 mins ago",
+						"id": "jV8T5mxaqGyiK5LhzusWLo",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					},
+					{
+						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-dPFws9uZRxcGUNUAXnV53U",
+						"psf_subtext": "",
+						"date_formatted": "9 mins ago",
+						"id": "dPFws9uZRxcGUNUAXnV53U",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					},
+					{
+						"sub_category": "condo_apartment",
+						"listing_url": "/singapore/sale/property/property-in-singapore-condo-3KUm8DHT4sTtoPzhkpjh9V",
+						"psf_subtext": "",
+						"date_formatted": "10 mins ago",
+						"id": "3KUm8DHT4sTtoPzhkpjh9V",
+						"sub_category_formatted": "Apartment",
+						"overlays": [],
+						"main_category": "condo",
+						"highlights": "highlight",
+						"location": {
+							"district": "10"
+						},
+						"address_name": "D'leedon",
+						"status": "active",
+						"property_segment": "residential",
+						"shortlisted_state": false,
+						"tags": [],
+						"photos": [
+							{
+								"category": null,
+								"caption": "qweqwe",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasd",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "asdasf",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jsodjo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							},
+							{
+								"category": null,
+								"caption": "jdosjfosdjfo",
+								"url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+								"id": "v3CSGnQdBBcr9C3KfSv6KXBQ",
+								"photo_validity": {
+									"text_undetected": null,
+									"faces_undetected": null
+								}
+							}
+						],
+						"user": {
+							"phone": "+6583936907",
+							"photo_url": null,
+							"id": "SfcU7D2nC4Foyu2wiCs36W",
+							"name": "Gregorius Marco"
+						},
+						"tag_attributes": {},
+						"listing_type": "sale",
+						"photo_url": "https://d3nlob7envid88.cloudfront.net/v3/v3CSGnQdBBcr9C3KfSv6KXBQ?width=320&mode=fill&text=Gregorius+Marco&sampling=lanczos&quality=70&version=1&signature=8544f930e81c5375a48a01b42c8155dd216adb8b",
+						"distance": null,
+						"commute_time": "0 mins",
+						"flags": {
+							"agent_99_only": false,
+							"agent_is_premium": false,
+							"user_seen": false,
+							"user_shortlisted": false,
+							"is_verified": false,
+							"user_enquired": false
+						},
+						"cluster_mappings": {
+							"development": "deGJpkDxZudKsgubFo4aAKLK",
+							"city": "ctsingapore",
+							"subzone": "szfarrer_court",
+							"zone": "zobukit_timah",
+							"district": "dtdistrict10",
+							"hdb_town": "htbukit_timah",
+							"region": "recentral_region",
+							"street": "stf9cbe7c313f76dd133e2",
+							"address": "adLuMGatsbesdcPsoCXDu8Tk",
+							"local": "deGJpkDxZudKsgubFo4aAKLK",
+							"street_name": "sn6a0a7df1b9699c67fcb9"
+						},
+						"attributes": {
+							"bedrooms": 3,
+							"bathrooms": 3,
+							"area_ppsf_formatted": "$100.1 psf",
+							"price_formatted": "S$100,000",
+							"price": 100000,
+							"other_price": "S$100,000",
+							"area_ppsf": 100.1,
+							"area_size": 999,
+							"completed_at": 2015,
+							"tenure": null,
+							"bedrooms_formatted": "3 Beds",
+							"area_size_formatted": "999 sqft",
+							"bathrooms_formatted": "3 Baths"
+						},
+						"address_line_2": "13 Leedon Heights · D10",
+						"address_line_1": "D'leedon"
+					}
+				],
+				"title": "63,073 SALES"
+			}
+		]
+	}
+}
